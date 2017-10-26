@@ -21,3 +21,5 @@
 
 7、本项目的默认密码为123456
 
+点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/wpyok500/prom-php/tree/masetr)
+
